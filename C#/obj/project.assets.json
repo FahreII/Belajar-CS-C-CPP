@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\belajar cpp\\c#\\coba.csproj",
+      "projectUniqueName": "C:\\BELAJAR C,C#,C++\\C#\\coba.csproj",
       "projectName": "coba",
-      "projectPath": "C:\\belajar cpp\\c#\\coba.csproj",
+      "projectPath": "C:\\BELAJAR C,C#,C++\\C#\\coba.csproj",
       "packagesPath": "C:\\Users\\abiti\\.nuget\\packages\\",
-      "outputPath": "C:\\belajar cpp\\c#\\obj\\",
+      "outputPath": "C:\\BELAJAR C,C#,C++\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abiti\\AppData\\Roaming\\NuGet\\NuGet.Config"

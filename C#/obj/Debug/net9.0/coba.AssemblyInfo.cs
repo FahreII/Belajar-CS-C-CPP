@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coba")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deff9110fa533e3aee8c5b776adabf0cca466db0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee6c9ac6eb84cb9ab750f56796c8a5b4ffdfe407")]
 [assembly: System.Reflection.AssemblyProductAttribute("coba")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coba")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
